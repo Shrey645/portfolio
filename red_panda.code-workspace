@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../red_panda"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shrey_portfolio"
+	}
+}

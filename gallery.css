@@ -1,0 +1,40 @@
+/*Basic Reset*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+/* Body and font styling*/
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color:#333;
+}
+/*Header styling*/
+header{
+    background:#333;
+    color:#fff;
+    padding:15px;
+    text-align:center;
+}
+header h1{
+    margin:0;
+}
+/*Gallery styling*/
+main{
+    padding:20px;
+}
+.gallery-item{
+    background:#ff;
+    border:1px solid #ddd;
+    border-radius:8px;
+    overflow: hidden;
+    text-align:center;
+}
+.gallery-item img{
+    width:100%
+    height: auto;
+}
+.gallery-item p{
+    padding:10px;
+}
